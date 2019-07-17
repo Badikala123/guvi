@@ -1,5 +1,5 @@
-s = int(input())
-if(s == 0):
+c = int(input())
+if(c == 0):
     print('Zero')
 elif(k>0):
     print('Positive')
